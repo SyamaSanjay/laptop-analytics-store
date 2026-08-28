@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31522874/README.md)
+[README_md](https://github.com/user-attachments/files/31522874/README.md)
 # Laptop Analytics Store — Business Analytics Capstone Project
 
 **Grade: 100/100** | Applied Business Intelligence and Analytics, Macromedia University of Applied Sciences
